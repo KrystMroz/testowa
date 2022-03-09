@@ -1,4 +1,4 @@
-print("Hello World.")
-print("Hello World.")
-print("Hello World.")
-print("Hello World.")
+imie = "Krystian"
+nazwisko = "Mróz"
+wiek = 26
+print(imie, nazwisko, wiek)
